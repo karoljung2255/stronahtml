@@ -1,0 +1,17 @@
+<html>
+<head><title> Jung </title>
+<meta charset="utf-8">
+</head>
+<body>
+<body bgcolor="white">
+Prawe menu
+<map id="mapa">
+<area shape="circle" coords="92,45,41" href="zdjnazipajpg.zip" target="obszar_glowny">
+<area shape="rect" coords="9,91,177,158" href="tabela_jung.html" target="obszar_glowny">
+<area shape="poly" coords="24,240,91,168,137,240" href="formularz_jung.html" target="obszar_glowny">
+<area shape="rect" coords="6,247,183,315" href="mailto:karoljung2255@gmail.com" target="obszar_glowny">
+<area shape="circle" coords="99,358,41" href="zadania1_6.html" target="obszar_glowny">
+</map>
+<img src="mapa.gif" alt="tutaj wybieraj linki" usemap="#mapa">
+</body>
+</html>
